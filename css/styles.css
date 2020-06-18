@@ -1,0 +1,193 @@
+html {
+  text-align: center;
+}
+
+#title nav {
+  padding: 15px 90px 0 0 ;
+}
+
+#title .nav-link {
+  font-family: "Poppins";
+  font-size:20px;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  opacity: 50%;
+}
+
+
+
+
+#resume {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.resume {
+  font-family: "Poppins";
+  font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  padding: 5px 15px;
+
+}
+
+#resume .btn-primary {
+  border-radius: 197px;
+  box-shadow: 0 5px 21px 0 rgba(227, 14, 213, 0.47);
+  background-color: #ff4070;
+  border-color: #ff4070;
+  padding: 10px 50px;
+}
+
+#title .social-link {
+  color: black;
+}
+
+#title {
+  padding: 0 15% 0;
+}
+
+#title .h1-text {
+  font-family: "Poppins";
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#title .h4-text {
+  padding-top: 18px;
+  opacity: 0.51;
+  font-family: "Poppins";
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#title .description{
+  padding-top: 70px;
+}
+
+#title .profile {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fab2 {
+  padding: 0 5px;
+}
+
+
+#projects {
+  padding: 4% 14%;
+
+}
+
+#projects .container-fluid {
+  padding: 0;
+  max-width: 1366px;
+}
+
+#projects .h1-text {
+font-family: "Poppins";
+font-size: 40px;
+font-weight: bold;
+font-style: normal;
+font-stretch: normal;
+line-height: 1.63;
+letter-spacing: normal;
+text-align: left;
+color: #000000;
+padding-bottom: 20px;
+
+}
+
+#projects .col-md-12 {
+  padding: 0;
+}
+
+#projects .project-div {
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top left;
+  z-index: 10;
+  -webkit-transition: all .3s ease;
+}
+
+#projects .project-images {
+  width: 450px;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 40px;
+  transition: all .3s ease;
+}
+
+.project-images:hover{
+  width: 460px;
+}
+
+#projects .case-img {
+  max-width: 100%;
+  height: auto;
+}
+
+#footer {
+text-align: center;
+}
+
+#footer .h1-text {
+  font-family: "Poppins";
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.1;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#footer .h4-text {
+  opacity: 0.7;
+  font-family: "Poppins";
+  font-size: 23px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.15;
+  letter-spacing: normal;
+  color: #000000;
+  padding-bottom: 30px;
+}
+
+#footer .email {
+opacity: 0.7;
+font-family: "Poppins";
+font-size: 20px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: 1.15;
+letter-spacing: normal;
+padding-bottom: 50px;
+}
